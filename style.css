@@ -1,47 +1,39 @@
-p {
-    text-align: center;
-    background-color: #cccccc;
+.titulo-principal{
+    padding-left: 30px;
 }
 
 #banner{
-    width: 100%;
+    width:100%;
 }
 
-body {
-    background-color: #cccccc;
+.principal{
+    background: #CCCCCC;
+    padding: 20px;
 }
 
-em strong {
-    color: red;
-}
-
-h2{
+.titulo-centralizado{
     text-align: center;
+}
+
+p{
+    text-align: center;
+}
+	
+em strong{
+    color:red;
 }
 
 #mision{
     font-size: 20px;
 }
 
-.item{
-    font-style: italic;
-}
-
 .diferenciales{
-    background-color: #ffffff;
+    background: #FFFFFF;
     padding: 30px;
 }
 
-.principal{
-    background-color: #cccccc;
-}
-
-h3{
-    text-align: center;
-}
-
-.imgDiferenciales{
-    width: 50%;
+.items{
+    font-style: italic;
 }
 
 ul{
@@ -49,4 +41,8 @@ ul{
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
+}
+
+.imagenDiferenciales{
+    width: 50%;
 }
